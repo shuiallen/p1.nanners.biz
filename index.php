@@ -1,6 +1,6 @@
-Project 1 for CSCI-E15
+<b>Project 1 for CSCI-E15</b>
 
-My name is Shirley Hui
+<p>My name is Shirley Hui</p>
 
-I am using Emacs, although I have also installed Sublime Text to play around with it.
+<p>I am using Emacs, although I have also installed Sublime Text to play around with it.</p>
 

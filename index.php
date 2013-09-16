@@ -30,7 +30,7 @@ I'm married, with 3 sons (16, 20, 24), originally from New York City, now from N
 <p>
 My personal passions are my family, cooking (from scratch and fresh ingredients, as much as possible), gardening and knitting. Here are a couple of highlights from this spring's garden:
 </p><p>
-<img src="pinkpeony.jpg" alt="Pink Peony" width="304" height="228">
+<img src="pinkpeony2.jpg" alt="Pink Peony" width="304" height="228">
 <img src="saponaria.jpg" alt="Saponaria" width="304" height="228">
 
 </p>
